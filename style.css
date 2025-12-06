@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     width: 70%;
     margin: auto;
@@ -40,4 +41,48 @@ footer {
     color: #EEEEEE;
     text-align: center;
     font-family: "Indie Flower", cursive;
+=======
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    /* padding: 20px; */
+    
+}
+
+body {
+    background-color: #17191d;
+}
+
+h1 {
+    margin: 30px;
+    font-family: "Indie Flower", cursive;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    color: #4ECCA3;
+}
+
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: "Indie Flower", cursive;
+}
+
+img {
+    width: 80%;
+}
+
+
+footer {
+    margin-top: 10%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: "Indie Flower", cursive;
+>>>>>>> 09699c58f1e7ee6282fb4358f6ccaa4e1a456725
 }
